@@ -20,7 +20,7 @@ the store, they have a clear idea of ​​exactly what to buy.
 *   Spring MVC
 *   MySQL Database
 *   JPA
-<<<<<<< HEAD
+
 
 **Without authentication** you can see as a guest : 
 
@@ -66,5 +66,3 @@ Website Screenshots
 
 - Add Item Page
 ![product-page](/src/main/resources/static/screens/add-product.png)
-=======
->>>>>>> 32edb78e80e29e2532c0e01e7a79e53e3e07616b
