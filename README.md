@@ -59,12 +59,10 @@ Website Screenshots
 ![addons](/src/main/resources/static/screens/register.png)
 
 - Login Page
-![pending-addons](/src/main/resources/static/screens/login.png)
+![login-addons](/src/main/resources/static/screens/login.png)
 
 - Home Page
-![product-page](/src/main/resources/static/screens/home.png)
+![home-page](/src/main/resources/static/screens/home.png)
 
 - Add Item Page
-![product-page](/src/main/resources/static/screens/add-product.png)
-=======
->>>>>>> 32edb78e80e29e2532c0e01e7a79e53e3e07616b
+![item-page](/src/main/resources/static/screens/add-product.png)
