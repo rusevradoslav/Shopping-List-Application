@@ -20,7 +20,6 @@ the store, they have a clear idea of ​​exactly what to buy.
 *   Spring MVC
 *   MySQL Database
 *   JPA
-<<<<<<< HEAD
 
 **Without authentication** you can see as a guest : 
 
